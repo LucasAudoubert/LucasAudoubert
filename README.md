@@ -8,19 +8,19 @@
   </a>
 </p>
 
-<h3 align="center">Étudiant en IT | Développeur Web Full-Stack en devenir</h3>
+<h3 align="center">Étudiant | Développeur Web Full-Stack en devenir</h3>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-audoubert-4a5b84298/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-audoubert/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://stackoverflow.com/users/20251565/rouckyyy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo" />
   </a>
-  <a href="mailto:lucas.audoubert@edu.devinci.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" />
+  <a href="mailto:lucas.audoubert.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" />
   </a>
 </div>
 
@@ -32,13 +32,13 @@
 
 ---
 
-## 🤩 À Propos de Moi
+## >> À Propos de Moi
 
 <p align="left">
-  Bonjour ! Je suis **Lucas Audoubert**, actuellement étudiant en informatique avec une forte passion pour le **développement web**. Je me concentre sur l'écosystème **JavaScript** (TypeScript, Node.js, Express) et les frameworks modernes comme **Vue.js** et **Nuxt**.
+  Bonjour, je m'appelle <strong>Lucas Audoubert</strong>. Je suis étudiant en informatique passionné par les technologies émergentes et le développement en générale.
 </p>
 <p align="left">
-  Mon objectif est de devenir développeur Full-Stack, en explorant également le développement 3D interactif avec **Three.js** et la modélisation avec **Blender**.
+  Mon objectif principal est de développer des applications, explorer le plus de nouvelles tecnologies possible et devenir chef de projet.
 </p>
 <p align="left">
   N'hésitez pas à explorer mes dépôts pour découvrir mes projets récents !
@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Mes Compétences Techniques
+## 💻 >> Mes Compétences Techniques
 
 ### Langages & Frameworks
 
@@ -54,6 +54,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="  https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" height="40" alt="scss logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="40" alt="tailwind logo" />
   <img width="12" />
@@ -110,7 +112,7 @@
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## 📊 >> Mes Statistiques GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=roucky44&locale=fr&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
