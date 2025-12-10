@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="  https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" height="40" alt="scss logo" />
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" height="40" alt="scss logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="40" alt="tailwind logo" />
   <img width="12" />
