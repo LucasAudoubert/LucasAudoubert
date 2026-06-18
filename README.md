@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Étudiant | Développeur Web Full-Stack en devenir</h3>
+<h3 align="center">Étudiant | Chef de projet | Développeur</h3>
 
 <br/>
 
